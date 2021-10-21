@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/temperature-calculator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/temperature-calculator/static/js/main.edaceb58.chunk.js",
+    "main.js.map": "/temperature-calculator/static/js/main.edaceb58.chunk.js.map",
+    "runtime-main.js": "/temperature-calculator/static/js/runtime-main.48d4da69.js",
+    "runtime-main.js.map": "/temperature-calculator/static/js/runtime-main.48d4da69.js.map",
+    "static/js/2.1f3b7afa.chunk.js": "/temperature-calculator/static/js/2.1f3b7afa.chunk.js",
+    "static/js/2.1f3b7afa.chunk.js.map": "/temperature-calculator/static/js/2.1f3b7afa.chunk.js.map",
+    "index.html": "/temperature-calculator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/temperature-calculator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1f3b7afa.chunk.js.LICENSE.txt": "/temperature-calculator/static/js/2.1f3b7afa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d4da69.js",
+    "static/js/2.1f3b7afa.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.edaceb58.chunk.js"
+  ]
+}
